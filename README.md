@@ -4,7 +4,7 @@
 
 ## Overview
 
-This CodeSoft project implements a customer churn prediction system, which utilizes machine learning techniques to analyze customer data and predict whether a customer is likely to churn (leave) the service in the near future. By identifying potential churners, businesses can take proactive measures to retain valuable customers and improve customer satisfaction.
+This  project implements a customer churn prediction system, which utilizes machine learning techniques to analyze customer data and predict whether a customer is likely to churn (leave) the service in the near future. By identifying potential churners, businesses can take proactive measures to retain valuable customers and improve customer satisfaction.
 
 ## Key Features
 
