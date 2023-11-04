@@ -1,4 +1,4 @@
-# Customer Churn Prediction using CodeSoft
+# Customer Churn Prediction
 
 ![Customer Churn Prediction](churn_prediction.png)
 
